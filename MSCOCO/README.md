@@ -1,0 +1,1 @@
+This directory contains code for MSCOCO dataset to run soft attention and hard attention models. For hybrid model run the soft attention code, and use it's parameters to train the hard attention model. For heatmaps, see the generate heatmap folder.
